@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # Declarações iniciais
 printf "\e[34mIniciando o Script de Processamento de Imagens\n\e[0m"
