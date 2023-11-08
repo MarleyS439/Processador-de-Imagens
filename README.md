@@ -1,5 +1,9 @@
 # Script de Processamento de Imagens
 
+# Sobre
+
+Este script foi escrito para otimizar o trabalho no tratamento de imagens para PDF de vistorias de imóveis/locais, realizados na empresa que atualmente trabalho (Guerra Imóveis), onde antes, era necessário muito trabalho manual para tratar as imagens e converter para PDF. Agora, apenas com alguns cliques o arquivo é gerado, dentro de menos tempo.
+
 ## Uso
 
 1. Este script em Bash (`process_images.sh`) é para uso no terminal bash de Linux.
