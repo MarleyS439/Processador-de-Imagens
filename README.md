@@ -2,7 +2,7 @@
 
 ## Uso
 
-1. Este script em Bash (`process_images.sh`) é para uso no terminal bash de Linux
+1. Este script em Bash (`process_images.sh`) é para uso no terminal bash de Linux.
 
 2. O script iniciará e navegará até o diretório /home/<seu_usuário>/Documentos/Vistorias/, onde estão localizadas as pastas com as imagens a serem processadas.
 
