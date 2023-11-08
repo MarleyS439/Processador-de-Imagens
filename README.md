@@ -60,6 +60,7 @@ Este script é disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](
 **Autor**
 
 Marley Santos
+
 E-mail: [marleysantos439@gmail.com](mailto:marleysantos439@gmail.com)
 
 GitHub: [MarleyS439](https://github.com/MarleyS439/)
